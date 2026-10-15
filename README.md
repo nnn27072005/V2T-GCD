@@ -1,13 +1,5 @@
 # Vision-to-Text Embedding Synthesis for Generalized Category Discovery (V2T-GCD)
 
-<p align="center">
-    <a href="https://cvpr.thecvf.com/virtual/2025/poster/34519"><img src="https://img.shields.io/badge/CVPR%202025-68488b"></a>
-    <a href="https://arxiv.org/abs/2403.09974"><img src="https://img.shields.io/badge/arXiv-2403.09974-b31b1b"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
-<p align="center">
-  Implementation of V2T-GCD: Vision-to-Text Embedding Synthesis for Generalized Category Discovery <br>
-</p>
 
 ## 📖 Introduction
 
